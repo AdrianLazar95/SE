@@ -44,8 +44,8 @@ Grupa: 1221F
 |9)Filip Alexandra| http://github.com/Alexamariafilip||
 |10) Guran Carmen| http://github.com/GuranCarmen||
 |11)Ignat Mihai| http://github.com/IgnatMihai||
-|12) Jugarean Carmen| http://github.com/CarmenJugarean95||
-|13)Lazar Adrian| http://github.com/AdrianLazar95||
+|12) Jugarean Carmen| http://github.com/CarmenJugarean95C||
+|13)Lazar Adrian| https://github.com/AdrianLazar95/ALF1|https://github.com/AdrianLazar95/SE1|
 |14)Mitrica Gina Maria| http://github.com/MitricaGina||
 |15)Nanu Maria| http://github.com/mariairina||
 |16)Popovici Fabian| http://github.com/fabianpopovici||
